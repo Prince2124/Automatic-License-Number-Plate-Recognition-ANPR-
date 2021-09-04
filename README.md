@@ -1,5 +1,7 @@
 # Automatic-License-Number-Plate-Recognition-ANPR-
 Automatic Number Plate Recognition (ANPR) is commonly used in many countries for many applications like Ticketless parking fee management, car theft prevention etc. ANPR systems consists of three stages:  Car Plate Detection with OpenCV and Haar Cascade,  Plate Number Recognition and Extraction with TesseractOCR.
+
+
 ![image](https://user-images.githubusercontent.com/59818604/132103398-52d91c75-cb0b-4b91-9239-c9e33a8bc47b.png)
 
 # Model (Haar Cascades)
