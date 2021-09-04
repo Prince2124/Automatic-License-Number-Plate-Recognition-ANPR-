@@ -18,12 +18,17 @@ D. After de-noising the plate pass it to pytesseracrt to get the text.
 
 # Results
 A. Cropped plate:
+
 ![cropped plate1](https://user-images.githubusercontent.com/59818604/132103726-b09fe3ae-2035-4745-8e09-b4a42c216944.png)
 
 ![cropped plate2](https://user-images.githubusercontent.com/59818604/132103714-b269beaf-5771-409c-b486-a3780adef221.png)
+
 B. Detected number plate
+
 ![result](https://user-images.githubusercontent.com/59818604/132103767-7facfc58-7c0f-4a79-9fb0-ec88ae3fda99.png)
+
 ![result1 (2)](https://user-images.githubusercontent.com/59818604/132103785-1974b5ad-c9c9-4ee3-b295-d8c47ef778a6.jpg)
+
 ![result1 (4)](https://user-images.githubusercontent.com/59818604/132103795-beb3de96-14b6-4825-9850-a598f52a368a.jpg)
 
 # References
