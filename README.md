@@ -29,7 +29,8 @@ B. Detected number plate
 
 ![result1 (2)](https://user-images.githubusercontent.com/59818604/132103785-1974b5ad-c9c9-4ee3-b295-d8c47ef778a6.jpg)
 
-![result1 (4)](https://user-images.githubusercontent.com/59818604/132103795-beb3de96-14b6-4825-9850-a598f52a368a.jpg)
+![result1 (1)](https://user-images.githubusercontent.com/59818604/132103875-686385c1-f4bd-4392-afad-5d598130c558.jpg)
+
 
 # References
 https://towardsdatascience.com/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c
